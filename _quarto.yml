@@ -1,0 +1,12 @@
+project:
+  type: book
+
+book:
+  title: "The Economics of Defence"
+  author: "Keith Hartley, Todd Sandler"
+  date: "8/18/2021"
+  chapters:
+    - index.md
+    - dpe/ch5_procurement.md
+    
+bibliography: references.bib
