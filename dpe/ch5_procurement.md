@@ -65,8 +65,7 @@ The methods used to estimate costs include:
 
 
 ### Engineering estimates 
-
-are based on the estimated costs of all the materials, equipment, components, labour, and overheads involved in the project  
+Engineerig estimates are based on the estimated costs of all the materials, equipment, components, labour, and overheads involved in the project (Fox, 1974; Sissons, 1986). Comparative methods are based on historical comparisons of similar projects (e.g, combat aircraft; transport aircraft). For example, on UK combat aircraft development work, graphs of the relationship between technical man hours per pound of empty weight and the date of start show a positive and increasing trend over time: hence the launch costs for a 1970 combat aircraft were some fifteen times greater than that of a 1930s combat aircraft (Boot, 1990,p. 213). Rules of thumb are also used. For example, on UK guided weapons a typical ratio of development cost to unit production cost might be 1,000:1; for combat aircraft with an existing engine, the corresponding ratio might be 100:1; and for warships the ratio is under 1:1 [based on 1,000 guided weapons; 100 aircraft, respectively (Pugh, 1986, p. 346)]. Similarly, rules of thumb might be used to estimate lifecycle costs comprising acquisition and ownership costs (i.e., R&D, production, operating, maintenance, and disposal costs). UK evidence suggests that on warships, development and procurement account for 25 percent of life cycle costs whilst for combat aircraft the corresponding share might be 13 percent [based on six ships in a class over twenty-five years; 250 aircraft produced over twenty-five years (Pugh, 1986, p. 124)]. But, of course, rules of thumb and extrapolation based on past relationships might need to be adjusted to allow for variations in the complexity of new programs compared with "typical" projects.
 
 ### Comparative Methods
 Comparative methods are based on historical comparisons of similar projects (c.g., combat aircraft; transport aircraft). For example, on UK combat aircraft development work, graphs of the relationship between technical man hours per pound of empty weight and the date of start show a positive and increasing trend over time: hence the launch costs for a 1970 combat aircraft were some fifteen times greater than that of a 1930s combat aircraft (Boot, 1990, p. 213). Rules of thumb are also used. For example, on UK guided weapons a typical ratio of development cost to unit production cost might be 1,000:1; for combat aircraft with an existing engine, the corresponding ratio might be 100:1; and for warships the ratio is under
@@ -122,8 +121,7 @@ The following sections will survey the major theoretical developments, their imp
 
 In chapters 2-4, games figured prominently in the analysis at various points. A game involves two or more agents (players) whose interactions determine their payoffs or outcomes. A non-cooperative game is characterized by the players, their strategies, and the outcomes associated with various strategy combinations. In chapter 2, for example, allies decided their defense levels, based on the aggregate defense levels (spill-ins) of the other allies and based on economic factors. Higher levels of spill-ins provided an ally with free-riding opportunities that would, in  turn, make it reduce its own defense provision. A Nash equilibrium was depicted as the simultaneous determination of defense levels and was used to derive demand curves (chapters 2-3). Strategic interactions other than Nash (e.g., leader-follower) were also discussed. In chapter 4, the agents included two or more adversaries whose choices of defence level were interdependent. Both static and dynamic game representations were presented. Arms races resulted when the arming of one nation induces the other nation to follow suit. 
 
-.. Insert last paragraph here
-
+When defense procurement is analyzed, three potential agents ate relevant; namely, the government (e.g., the Congress in the United States); the military (DoD, MoD); and the firm. The military s frequently referred to as the contractor, and the firm is the producer or supplier. To facilitate analysis, the researcher often suppresses one of these three agents and focuses on the other two. Some formulations emphasize the interactions between the Congress and the military (Rogerson, 1990, 199la), others concern the interactions between the Congress and the firm (Cummins, 1977; McAfee and McMillan, 1986a, 1986b) and still others involve the interaction between the military and the firm (Tirole, 1986). These game analyses emphasize either the sequential nature of the game, or the information structure, or both. For sequential aspects, the game is typically depicted as a two-period game in which in the first period one player decides a choice variable, based on his/her anticipation of the other player's optimizing choice in the second
 period. The game is solved backwards by first depicting the optimizing choice in the second period and then using this choice as a constraint on the optimizing choice in the first period. In so doing, the agents are made to anticipate their counterpart's reaction to their own behaviour. 
 
 Information is relevant to the procurement problem when one player is informed and the other is not about, say, a random variable. This situation is termed asymmetric information and is germane to principal agent problems in which the agent knows its own effort but the principal, while able to observe an outcome, cannot observe effort. Suppose that ex-post cost $c_j$, is made up of three components: (1) the agent's expected cost of the project, $c_i^*$ (2) an additive random variable, $\psi$, and (3) cost reducing effort, $e_i$;. Thus, we have 
@@ -149,7 +147,6 @@ $$\min _s C(x, s) .$$
 
 We denote the unique second-best scale for each x > 0 as $\psi(x)$.
 
-
 Given s, a second-best output level follows from
 
 $$
@@ -166,6 +163,7 @@ We indicate an interior second-best output level at $\bar{s}$ as $\bar{x}=\Omega
 $$
 G_x(x, s)<0
 $$
+
 which implies that marginal cost of output falls with scale. This assumption is sufficient to imply that $\phi^{\prime}(x)>0$, or that a larger scale is optimally chosen for a larger output level. (The sign of $\phi^{\prime}(x)$ follows from differentiating the first-order conditions associated with equation 4. so that $\phi^{\prime}(x)-C_{x s} / C_{s s}$).
 
 We are now prepared to investigate the equilibrium for this sequential game the military moves first and decides scale so as to maximize $V(x)$. That is, the military is only concerned with military benefits associated with a weapons system where more weapons is preferred to less ($V^{\prime}(x)>0$).
@@ -203,6 +201,7 @@ $$
 The inequality follows from $C_{x s}<0$ and the concavity of the objective function. The derivative in (13) corresponds to $\Omega^{\prime}(s)$ and indicates that larger scale increases the Congress's optimizing choice of output up to $\bar{s}$, at which point the net social surplus disappears. In fact, the unique (second-best) equilibrium program occurs at $(\bar{x}, \bar{s})$. The military exploits its first-mover advantage by choosing $\bar{s}$ and, in doing so, extracts all of the social surplus which is driven to zero at $\bar{x}$.
 
 It is easy to show that the equilibrium leads to greater than first-best scale and output - i.e., $\bar{x}>x^*$ and $\bar{s}>s^*$. When, for example, the first best condition
+
 $$
 V^{\prime}(x)-C_x(x, s)=0,
 $$
